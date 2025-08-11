@@ -3,7 +3,7 @@
 
 - 🔭  I'm passionate about working with data and leveraging it to uncover valuable insights
 
-## _________________________________________________________________________________
+## __________________________________________________________________________
 ## Tech Stack 
 
 ### Languages & Frameworks
