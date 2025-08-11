@@ -2,6 +2,10 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭  I'm passionate about working with data and leveraging it to uncover valuable insights
+<div align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</div>
+
 
 ## Tech Stack 
 
@@ -34,10 +38,3 @@
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tai-pham-6005b0294/)
 
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-
-</div>
